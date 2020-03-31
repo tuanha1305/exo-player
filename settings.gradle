@@ -1,0 +1,8 @@
+rootProject.name='sample-exo'
+include ':app'
+include ':core'
+include ':dash'
+include ':hls'
+include ':smoothstreaming'
+include ':ui'
+include ':all'

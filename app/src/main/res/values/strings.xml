@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">sample-exo</string>
+    <string name="url_video_sample"><![CDATA[https://s0.2mdn.net/4253510/google_ddm_animation_480P.mp4]]></string>
+</resources>
